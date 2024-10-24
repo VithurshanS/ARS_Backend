@@ -40,6 +40,6 @@ app.use('/',seat);
 
 
 
-app.listen(3068,()=>{
+app.listen(3066,()=>{
     console.log('server started');
 })
